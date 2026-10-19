@@ -297,7 +297,7 @@ These recommendations should be validated against additional operational and rev
 **Kartik Verma**
 
 - **GitHub:** [KartikVerma8](https://github.com/KartikVerma8)
-- **LinkedIn:** Add your LinkedIn profile URL
+- **LinkedIn:** https://www.linkedin.com/in/kartikverma09/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bjjm04HWBS%2B2Oy2F95QreYw%3D%3D
 
 ---
 
